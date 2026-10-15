@@ -1,0 +1,44 @@
+/target
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]ownloads/
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+.env
+.env.local
+.env.*.local
+*.env
+*.pem
+*.key
+*.cert
+*.secret
+
+*.log
+.cache/
+
